@@ -1,6 +1,3 @@
-React-Redux-Bank
-React-Redux-Bank, your go-to playground for exploring banking features in the world of React and Redux.
-
 # React-Redux-Bank 🏦
 
 React-Redux-Bank, your go-to playground for exploring banking features in the world of React and Redux.
